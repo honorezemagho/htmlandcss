@@ -1,0 +1,27 @@
+body {
+    font-family: 'Monserrat', sans-serif;
+}
+
+#product-overview {
+    background-color: #ff1b68;
+    padding: 20px;
+    /* border-style: solid;
+    border-color: black;
+    border-width: 5px */
+    border: 5px solid black;
+    margin: 20px;
+}
+
+.product-overview h1 {
+    color: white;
+    font-family: 'Anton', sans-serif;
+}
+
+h1 {
+    color: white;
+    font-family: sans-serif;
+}
+
+.section-title {
+    color: #2ddf5c;
+}
