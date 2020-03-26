@@ -90,3 +90,7 @@ h1 {
     color: #ff1b68;
     border: none;
 }
+
+#plans h1 {
+    color: black;
+}
